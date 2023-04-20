@@ -1,1 +1,2 @@
 TOKEN = ''
+PAYMENTS_TOKEN = ''
